@@ -1,0 +1,1 @@
+# OpenCV-filter-dark-image
