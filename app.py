@@ -86,7 +86,7 @@ def reduce_init_t(init_t):
     init_t = init_t.astype(np.float64)/255
     return init_t
 
-im = cv2.imread('dark.png')
+im = cv2.imread('dark-1.jpg')
 orig = im.copy()
 
 tmin = 0.1   # minimum value for t to make J image
